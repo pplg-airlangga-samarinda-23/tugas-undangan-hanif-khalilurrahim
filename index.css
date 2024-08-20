@@ -1,6 +1,22 @@
 .ambasing{
-    text-align: center;
+  text-align: center;
 }
 img {
     margin-left:auto;margin-right:auto;display:block;
+}
+map{
+    display: flex;
+  justify-content: center;
+}
+psu{
+    display: flex;
+  justify-content: center;
+}
+migas{
+  display: flex;
+  justify-content: center;
+}
+lagu{
+  display: flex;
+  justify-content: center;
 }
