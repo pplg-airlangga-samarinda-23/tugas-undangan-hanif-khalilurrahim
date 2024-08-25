@@ -1,5 +1,6 @@
 .ambasing {
   text-align: center;
+  font-style: italic;
 }
 
 map {
@@ -10,6 +11,8 @@ map {
 psu {
     display: flex;
   justify-content: center;
+  font-style: italic;
+  font-weight: 600;
 }
 
 migas {
@@ -50,16 +53,16 @@ lagu {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(172, 50, 50, 0.5);
+  background: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   padding: 10px;
   text-decoration: none;
 }
 
 .prev {
-  left: 10px;
+  left: 1px;
 }
 
 .next {
-  right: 10px;
+  right: 1px;
 }
