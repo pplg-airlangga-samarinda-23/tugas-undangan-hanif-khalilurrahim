@@ -66,3 +66,18 @@ lagu {
 .next {
   right: 1px;
 }
+yanqing{
+  float: right;
+}
+tyanqing{
+  text-align: center;
+  font-style: italic;
+}
+tyunli{
+  font-style: italic;
+  text-align: center;
+}
+heart{
+  display: flex;
+  justify-content: center;
+}
