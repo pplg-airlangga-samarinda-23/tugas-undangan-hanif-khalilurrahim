@@ -14,8 +14,8 @@
     <h3 class="ambasing">Tanggal : senin 78</h3>
     <h3 class="ambasing">Tempat : SMK TI airlangga</h3>
     <br>
-    <yunli><img src="yunqing.png" width="156"></yunli>
-    <yanqing><img src="yanqing.png" width="160"></yanqing>
+    <yunli><img style="margin-left: 550px;" src="yunqing.png" width="156"></yunli>
+    <yanqing><img style="margin-right: 550px;" src="yanqing.png" width="160"></yanqing>
     <tyunli><h3>YUNLI</h3></tyunli>
     <heart>❤️</heart>
     <tyanqing><h3>YANQING</h3></tyanqing>
