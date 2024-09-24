@@ -32,7 +32,7 @@
     </div>
     </br>
 
-    <div style="margin-left: 600px;">
+    <div style="margin-left: 630px;">
         <form action="insert.php" method="POST">
             <label>NAMA</label> <br>
             <input name="nama" type="text" placeholder="nama" require> <br>
@@ -67,7 +67,7 @@
         $sql2 = "SELECT * FROM buku_tamu ORDER BY id DESC";
         $hasil = $connection->query($sql2);
     ?>
-     <div style="height:200px; width:300px; overflow:scroll; margin-left: 600px;">
+     <div style="height:200px; width:300px; overflow:scroll; margin-left: 610px;">
     <?PHP
         while ($baris = $hasil->fetch_row()) {
     ?>
